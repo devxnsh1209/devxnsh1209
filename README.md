@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devxnshh_1209" target="blank"><img src="https://img.shields.io/twitter/follow/devxnshh_1209?logo=twitter&style=for-the-badge" alt="devxnshh_1209" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/devxnshh.exe](https://linktr.ee/devxnshh.exe)
+- 👨‍💻 All of my projects are available at [https://github.com/devxnsh1209?tab=repositories](https://github.com/devxnsh1209?tab=repositories)
 
 - 📫 How to reach me **joshidewansh1209@gmail.com**
 
